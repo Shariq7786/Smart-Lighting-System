@@ -1,0 +1,9 @@
+../source/Final_Project.c:22:6:initUART0	16	static
+../source/Final_Project.c:43:6:UART0_Transmit	16	static
+../source/Final_Project.c:54:6:initGPIO	4	static
+../source/Final_Project.c:80:6:turnRedLEDOn	4	static
+../source/Final_Project.c:84:6:turnRedLEDOff	4	static
+../source/Final_Project.c:88:6:turnGreenLEDOn	4	static
+../source/Final_Project.c:92:6:turnGreenLEDOff	4	static
+../source/Final_Project.c:97:6:delay_ms	24	static
+../source/Final_Project.c:101:5:main	56	static
